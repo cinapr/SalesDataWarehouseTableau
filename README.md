@@ -13,6 +13,7 @@ The goal of this project was to handle data duplication, design a proper fact gr
 
 ## Project Structure
 
+```
 /sales-data-warehouse-tableau
 │
 ├── /sql-scripts
@@ -28,6 +29,7 @@ The goal of this project was to handle data duplication, design a proper fact gr
 ├── /tutorials (tutorial that I used to build this project)
 │
 └── README.md
+```
 
 ## Technologies Pre-requisites
 
