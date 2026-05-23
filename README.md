@@ -66,7 +66,7 @@ With the data structured properly in SQL, the Tableau layer focuses purely on an
 
 2. Open `TestTableau2.twb` in Tableau Desktop.
 
-3. Edit the data connection to point to your local SQL Server instance.
+3. Edit the data connection to point to your local SQL Server instance. The Tableau workbook expects a connection to a local SQL Server instance named [YOUR_SERVER_NAME]
 
 PS. [Note: This project was built following the concepts from an advanced BI training module focused on aggregation awareness and data architecture.](tutorial/Module%20Learning%20Tableau%20with%20SQL.pdf)
 
