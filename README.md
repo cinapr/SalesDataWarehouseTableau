@@ -68,7 +68,7 @@ With the data structured properly in SQL, the Tableau layer focuses purely on an
 
 3. Edit the data connection to point to your local SQL Server instance.
 
-PS. [Note: This project was built following the concepts from an advanced BI training module focused on aggregation awareness and data architecture. API Docs](tutorial/Module%20Learning%20Tableau%20with%20SQL.pdf)
+PS. [Note: This project was built following the concepts from an advanced BI training module focused on aggregation awareness and data architecture.](tutorial/Module%20Learning%20Tableau%20with%20SQL.pdf)
 
 ## Full BI Architecture
 
