@@ -72,6 +72,7 @@ PS. [Note: This project was built following the concepts from an advanced BI tra
 
 ## Full BI Architecture
 
+```
 [ Source System (dbo tables) ]
 ↓
 [ Staging Layer (STG) ]
@@ -90,6 +91,9 @@ PS. [Note: This project was built following the concepts from an advanced BI tra
 ↓
 [ BI Layer ]
 Tableau Dashboard
+```
+
+
 
 ## Tableau Dashboard Running Result
 
@@ -97,8 +101,17 @@ Tableau Dashboard
 ![Data Source Connection](assets/dashboard_demo/DataSource.png)
 
 ### Key Business Metrics
+1. Sales per Month:
 ![Sales per Month](assets/dashboard_demo/Sales%20per%20Month.png)
+
+2. Total Sales Per Product:
 ![Total Sales per Product](assets/dashboard_demo/Total%20Sales%20per%20Product.png)
+
+3. Sales per Employee:
 ![Sales per Employee](assets/dashboard_demo/Sales%20per%20Employee.png)
+
+4. Total Sales per Customer:
 ![Total Sales per Customer](assets/dashboard_demo/Total%20Sales%20per%20Customer.png)
+
+5. Quantity Sold per Product:
 ![Quantity Sold per Product](assets/dashboard_demo/Quantity%20Sold%20per%20Product.png)
